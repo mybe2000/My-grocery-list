@@ -1,0 +1,26 @@
+section {
+  background-color: rgb(151, 207, 207);
+  padding: 5px;
+  margin: 15px;
+  display: inline-block;
+}
+
+h2 {
+  background-color: rgb(223, 218, 107);
+  text-transform: uppercase;
+  border: 1px solid black;
+  padding: 5px;
+}
+
+h1 {
+  color: rgb(198, 63, 205);
+}
+
+h3 {
+  color: rgb(108, 53, 5);
+  text-transform: uppercase;
+}
+
+img {
+  width: 300px;
+}
